@@ -3,7 +3,7 @@
  * @return {number}
  */
 var fib = function(n) {
-    const cache = {};
+    const cache = {0: 0, 1: 1};
 
     const fun = n => {
         if(n in cache) return cache[n];
@@ -15,6 +15,4 @@ var fib = function(n) {
         return sum;
     }
     return fun(n)
-
-    
 };
