@@ -6,7 +6,7 @@ var fib = function(n) {
     const cache = {};
 
     const fun = n => {
-        if(cache[n]) return cache[n];
+        if(n in cache) return cache[n];
         if (n <= 1) {
             return n;
         }
