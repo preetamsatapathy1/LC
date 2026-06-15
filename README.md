@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -39,5 +40,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
