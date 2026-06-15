@@ -2,10 +2,19 @@
  * @param {number} n
  * @return {number}
  */
-var fib = function a(n) {
-    if (n < 1) return 0;
-    if (n == 1) return 1;
+var fib = function(n) {
+    const cache = {};
 
-    return a(n-1) + a(n-2)
+    const fun = n => {
+        if(cache[n]) return cache[n];
+        if (n <= 1) {
+            return n;
+        }
+        const sum = fun(n-1) + fun(n-2);
+        cache[n] = sum;
+        return sum;
+    }
+    return fun(n)
+
     
 };
