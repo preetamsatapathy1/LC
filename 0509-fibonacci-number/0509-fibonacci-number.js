@@ -10,9 +10,8 @@ var fib = function(n) {
         if (n <= 1) {
             return n;
         }
-        const sum = fun(n-1) + fun(n-2);
-        cache[n] = sum;
-        return sum;
+        cache[n] = fun(n-1) + fun(n-2);
+        return cache[n];
     }
     return fun(n)
 };
