@@ -73,7 +73,6 @@ MyLinkedList.prototype.addAtIndex = function(index, val) {
         //insert at head
         newNode.next = this.head;
         this.head = newNode;
-
     } else {
         //inser after the node
         let temp = node.next;
