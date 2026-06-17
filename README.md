@@ -53,4 +53,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
