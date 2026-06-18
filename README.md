@@ -20,6 +20,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/preetamsatapathy1/LC/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
