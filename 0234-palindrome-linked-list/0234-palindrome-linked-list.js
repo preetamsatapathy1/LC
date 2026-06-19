@@ -31,7 +31,7 @@ var isPalindrome = function(head) {
     }
 
     let reversedHead = reverseLL(slow);
-    while(head && reversedHead && reversedHead != head){
+    while(head && reversedHead){
         const revVal = reversedHead.val;
         const headVal = head.val;
         if(revVal != headVal) return false;
