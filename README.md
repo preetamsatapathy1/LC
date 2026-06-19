@@ -20,6 +20,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/preetamsatapathy1/LC/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/preetamsatapathy1/LC/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -52,6 +53,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -62,10 +64,15 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/preetamsatapathy1/LC/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
