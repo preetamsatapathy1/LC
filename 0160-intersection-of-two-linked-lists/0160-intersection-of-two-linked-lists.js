@@ -12,28 +12,18 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function(headA, headB) {
-    let dataMap = {};
+    let set = new Set();
     while(headA){
-        const value = headA.val;
-        if(value in dataMap){
-            dataMap[value] = [...dataMap[value], headA];
-        }else{
-            dataMap[value] = [headA]
-        }
+        set.add(headA);
         headA = headA.next;
     }
 
     while(headB){
-        const data = headB.val;
-        if(data in dataMap){
-            const nodes = dataMap[data];
-            for(let i=0;i < nodes.length; i++){
-                if(headB === nodes[i]){
-                    return headB;
-                }
-            }
+        if(set.has(headB)){
+            return headB;
         }
         headB = headB.next;
     }
     return null;
+
 };
