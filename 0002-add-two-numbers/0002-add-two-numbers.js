@@ -18,7 +18,7 @@ var addTwoNumbers = function(l1, l2) {
         let n2 = l2?.val || 0;
         let n3 = (n1 + n2 + carry) % 10;
 
-        carry = Number.parseInt((n1+n2+carry)/10);
+        carry = Math.floor((n1+n2+carry)/10);
         let node = new ListNode(n3);
         if(!nh) nh = node;
         if (prev) prev.next = node;
