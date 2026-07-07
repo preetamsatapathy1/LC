@@ -8,8 +8,9 @@ var MinStack = function() {
  * @return {void}
  */
 MinStack.prototype.push = function(value) {
-    const m = Math.min(this.stack[this.stack.length - 1]?.min ?? Infinity, value);
-    this.stack.push({value, min:m});
+    const prevMin = this.stack[this.stack.length - 1]?.min ?? Infinity;
+    const currMin = prevMin < value ? prevMin : value
+    this.stack.push({value, min:currMin});
 };
 
 /**
