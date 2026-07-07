@@ -17,7 +17,5 @@ var isValid = function(s) {
             stack.push(char)
         }
     }
-    return !Boolean(stack.length)
-
-    
+    return stack.length == 0
 };
