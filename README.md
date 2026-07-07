@@ -92,5 +92,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
