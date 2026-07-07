@@ -19,12 +19,6 @@ var isValid = function(s) {
                 return false
             }
         }
-
-        if(char in refMap && refMap[char] === stack[stack.length-1]){
-            stack.pop()
-        }else{
-            stack.push(char)
-        }
     }
     return stack.length == 0
 };
