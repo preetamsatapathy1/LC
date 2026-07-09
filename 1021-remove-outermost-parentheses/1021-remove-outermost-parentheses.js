@@ -5,7 +5,7 @@
 var removeOuterParentheses = function(s) {
     let res = "";
     let count = 0;
-    let stack = [];
+    // let stack = [];
     for(let i=0;i<s.length;i++){
         let curr = s[i];
         if(curr === '('){
