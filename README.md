@@ -96,8 +96,10 @@
 | [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/preetamsatapathy1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
