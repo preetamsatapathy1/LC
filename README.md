@@ -7,6 +7,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/preetamsatapathy1/LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/preetamsatapathy1/LC/tree/master/0485-max-consecutive-ones) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/preetamsatapathy1/LC/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/preetamsatapathy1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/1021-remove-outermost-parentheses) |
