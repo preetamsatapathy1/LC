@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/preetamsatapathy1/LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/preetamsatapathy1/LC/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0155-min-stack](https://github.com/preetamsatapathy1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/1021-remove-outermost-parentheses) |
 ## String
 |  |
@@ -112,4 +114,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
