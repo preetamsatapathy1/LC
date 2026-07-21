@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/preetamsatapathy1/LC/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/preetamsatapathy1/LC/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +116,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/preetamsatapathy1/LC/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/preetamsatapathy1/LC/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
