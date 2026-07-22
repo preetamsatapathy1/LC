@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/preetamsatapathy1/LC/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/preetamsatapathy1/LC/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/preetamsatapathy1/LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/preetamsatapathy1/LC/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
