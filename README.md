@@ -56,6 +56,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/preetamsatapathy1/LC/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/preetamsatapathy1/LC/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/preetamsatapathy1/LC/tree/master/0994-rotting-oranges) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/preetamsatapathy1/LC/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
