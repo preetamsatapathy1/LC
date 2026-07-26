@@ -58,6 +58,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/preetamsatapathy1/LC/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/preetamsatapathy1/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/preetamsatapathy1/LC/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
@@ -132,5 +133,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/preetamsatapathy1/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/preetamsatapathy1/LC/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
