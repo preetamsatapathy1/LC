@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/preetamsatapathy1/LC/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/preetamsatapathy1/LC/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/preetamsatapathy1/LC/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/preetamsatapathy1/LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/preetamsatapathy1/LC/tree/master/0268-missing-number) |
