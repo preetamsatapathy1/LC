@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/preetamsatapathy1/LC/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/preetamsatapathy1/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/preetamsatapathy1/LC/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/preetamsatapathy1/LC/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/preetamsatapathy1/LC/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
