@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/preetamsatapathy1/LC/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/preetamsatapathy1/LC/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/preetamsatapathy1/LC/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preetamsatapathy1/LC/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/preetamsatapathy1/LC/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
@@ -151,4 +153,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/preetamsatapathy1/LC/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/preetamsatapathy1/LC/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/preetamsatapathy1/LC/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
