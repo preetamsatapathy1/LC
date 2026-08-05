@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/preetamsatapathy1/LC/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/preetamsatapathy1/LC/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
@@ -35,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/preetamsatapathy1/LC/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/preetamsatapathy1/LC/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/preetamsatapathy1/LC/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/preetamsatapathy1/LC/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/preetamsatapathy1/LC/tree/master/0141-linked-list-cycle) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/preetamsatapathy1/LC/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/preetamsatapathy1/LC/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/preetamsatapathy1/LC/tree/master/0234-palindrome-linked-list) |
@@ -141,6 +145,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/preetamsatapathy1/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/preetamsatapathy1/LC/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
