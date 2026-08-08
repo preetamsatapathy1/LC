@@ -5,7 +5,7 @@
 var lengthOfLongestSubstring = function(s) {
     let map = {};
     let i=0, j=0, max=0;
-    while(i<s.length && j<s.length){
+    while(j<s.length){
         const curr = s[j];
         if(curr in map && map[curr] >=i){
             i = map[curr] + 1;
