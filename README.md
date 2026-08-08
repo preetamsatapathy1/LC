@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/preetamsatapathy1/LC/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/preetamsatapathy1/LC/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preetamsatapathy1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/preetamsatapathy1/LC/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/preetamsatapathy1/LC/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preetamsatapathy1/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/preetamsatapathy1/LC/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/preetamsatapathy1/LC/tree/master/0509-fibonacci-number) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetamsatapathy1/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/preetamsatapathy1/LC/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
