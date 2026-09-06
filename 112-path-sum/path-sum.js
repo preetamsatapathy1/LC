@@ -15,10 +15,7 @@ var hasPathSum = function(root, targetSum) {
     const traverse = (root, sum) => {
         if(!root) return false;
         const currSum = sum + root.val;
-        if(!root.left && !root.right ){
-            if(currSum === targetSum) return true;
-            return false;
-        }
+        if(!root.left && !root.right && currSum === targetSum) return true;
 
         return traverse(root.left, currSum) || traverse(root.right, currSum)
 
