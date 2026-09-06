@@ -12,11 +12,17 @@
  * @return {boolean}
  */
 var hasPathSum = function(root, targetSum) {
-    if(!root) return false;
+    const traverse = (root, sum) => {
+        if(!root) return false;
+        const currSum = sum + root.val;
+        if(!root.left && !root.right ){
+            if(currSum === targetSum) return true;
+            return false;
+        }
 
-    const reqVal = targetSum - root.val;
-    if (reqVal == 0 && !root.left && !root.right) return true;
+        return traverse(root.left, currSum) || traverse(root.right, currSum)
 
-    return hasPathSum(root.left, reqVal) || hasPathSum(root.right, reqVal)
-    
+    }
+    return traverse(root, 0)
+
 };
