@@ -14,11 +14,12 @@ var levelOrder = function(root) {
     const ans = [];
     if(!root) return ans;
     let queue = [root];
-    while(queue.length) {
+    let front = 0;
+    while(queue.length - front) {
+        const size = queue.length - front;
         const level = [];
-        const size = queue.length;
         for(let i=0; i<size; i++ ){
-            const item = queue.shift();
+            const item = queue[front++];
             if(item.left) queue.push(item.left);
             if(item.right) queue.push(item.right);
             level.push(item.val);
