@@ -21,7 +21,6 @@ var isBalanced = function(root) {
     
     const leftDepth = findDepth(root.left)
     const rightDepth = findDepth(root.right);
-    console.log("l", leftDepth, "r", rightDepth)
 
     if(Math.abs(leftDepth - rightDepth) > 1) return false;
     return isBalanced(root.left) && isBalanced(root.right)
