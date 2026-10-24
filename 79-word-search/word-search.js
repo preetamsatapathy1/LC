@@ -11,7 +11,9 @@ var exist = function(board, word) {
     const backtrack = (r, c, index) => {
         if(index === word.length) {
             res = true;
+            return;
         }
+
         let prev = board[r][c];
         board[r][c] = '#'
         if(r+1 < row && board[r+1][c] === word[index]){
@@ -32,7 +34,9 @@ var exist = function(board, word) {
     for(let i=0; i<row;i++){
         for(let j=0; j<col; j++){
             if(board[i][j] === word[0]){
-                backtrack(i, j, 1)
+                if(!res){
+                    backtrack(i, j, 1)
+                }
             }
         }
     }
