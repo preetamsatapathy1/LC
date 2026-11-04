@@ -14,7 +14,6 @@ var rob = function(nums) {
         sol1.push(c1);
         sol2.push(c2)
     }
-    console.log(sol1, sol2)
     return Math.max(sol1.at(-2), sol2.at(-1))
     
 };
